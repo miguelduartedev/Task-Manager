@@ -1,0 +1,13 @@
+{
+  "rules": {
+    "import/no-unresolved": "error",
+      "parserOptions": {
+        "ecmaVersion": "latest"
+    },
+
+    "env": {
+        "es6": true
+    }
+  },
+    
+}
